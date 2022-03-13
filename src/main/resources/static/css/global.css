@@ -1,0 +1,51 @@
+.nav-item{
+font-family: 'Times New Roman', Times, serif, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: large;
+font-weight: 400;
+margin-left: 10px;
+}
+.nav-item:hover{
+background-color: rgb(122, 110, 110);
+border-radius: 10px;
+}
+.d-flex{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.heading{
+    text-align: center;
+    margin-top: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+}
+.subheading{
+    text-align: center;
+    margin-top: 5px;
+  
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+}
+.carousel-item{
+    height: 80%;
+}
+
+.box{
+    margin-top: 50px;
+    height: 250px;
+    width: 300px;
+    border: 1px solid black;
+
+}
+.description{
+    font-size: large;
+    font-weight: 500;
+    font-family: cursive;
+    text-align: justify;
+   
+
+
+}
+
+.spacedescrption{
+margin-top: 20px;
+}
